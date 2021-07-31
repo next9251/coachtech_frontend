@@ -45,7 +45,7 @@ export default{
   font-weight: bold;
   text-align: center;
 }
-input {
+.input {
   margin-top: 15px;
   width: 80%;
   border-radius: 10px;
@@ -59,5 +59,4 @@ input {
 .form button {
   margin-top: 15px;
 }
-</style>
 </style>
